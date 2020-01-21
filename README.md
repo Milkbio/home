@@ -1,2 +1,1 @@
-# guobao-repo.github.io
-personal home
+# 个人主页
